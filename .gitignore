@@ -1,0 +1,7 @@
+/data
+/log
+/model
+/output
+/output_5fold
+/output_fold
+*__pycache__
